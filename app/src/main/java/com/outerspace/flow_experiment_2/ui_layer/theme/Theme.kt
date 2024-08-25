@@ -1,4 +1,4 @@
-package com.outerspace.flow_experiment_2.`ui-layer`.theme
+package com.outerspace.flow_experiment_2.ui_layer.theme
 
 import android.app.Activity
 import android.os.Build

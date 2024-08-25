@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.outerspace.flow_experiment_2"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.outerspace.flow_experiment_2"
         minSdk = 29
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
